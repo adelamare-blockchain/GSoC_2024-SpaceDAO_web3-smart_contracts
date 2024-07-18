@@ -7,15 +7,15 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Smart Contracts](#smart-contracts)
-- [Architecture](#architecture)
-- [Technology Stack](#technology-stack)
-- [Key Features](#key-features)
-- [Getting started](#getting-started)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
+- [Overview](#-overview)
+- [Smart Contracts](#-smart-contracts)
+- [Architecture](#-architecture)
+- [Technology Stack](#-technology-stack)
+- [Key Features](#-key-features)
+- [Getting started](#-getting-started)
+- [Testing](#-testing)
+- [Deployment](#-deployment)
+- [Contributing](#-contributing)
 - [Licensing](#-licensing)
 - [Contact](#-contact)
 
