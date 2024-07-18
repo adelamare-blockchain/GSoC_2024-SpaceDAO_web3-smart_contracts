@@ -1,4 +1,4 @@
-# SpaceDAO Web3 Smart Contracts - space traffic consensus
+# Space traffic consensus smart contracts | Google Summer Of Code 2024
 
 ![Logo SpaceDAO](https://spacedao.ai/static/img/spacedao-logo.png)
 
@@ -11,10 +11,10 @@
 - [Smart Contracts](#-smart-contracts)
 - [Architecture](#-architecture)
 - [Technology Stack](#-technology-stack)
-- [Key Features](#-key-features)
+- [Key Features](#key-features)
 - [Getting started](#-getting-started)
 - [Testing](#-testing)
-- [Deployment](#-deployment)
+- [Deployment](#deployment)
 - [Contributing](#-contributing)
 - [Licensing](#-licensing)
 - [Contact](#-contact)
